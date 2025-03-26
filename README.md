@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/jasmeetsm-04">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/jasmeetsm-04?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/jasmeetsm/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jasmeet Singh%20Malhotra-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
