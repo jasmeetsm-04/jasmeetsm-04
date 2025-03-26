@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...DevOps , Cloud & Generative AI Space
 - 💞️ I’m looking to collaborate on ...DevOps & Cloud related 
 - 📫 How to reach me ...https://www.linkedin.com/in/jasmeetsm/
+- and jasmeetsm04@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
