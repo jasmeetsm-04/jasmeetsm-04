@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasmeetsm-04
 - 👀 I’m interested in ..sharing the content and building up Projects
 - 🌱 I’m currently learning ...DevOps , Cloud & Generative AI Space
-- 💞️ I’m looking to collaborate on ...DevOps & Cloud related 
+- 💞️ I’m looking to collaborate on ...DevOps & Cloud related stuff
 - 📫 How to reach me ...https://www.linkedin.com/in/jasmeetsm/
 - and jasmeetsm04@gmail.com
 - 😄 Pronouns: ...
