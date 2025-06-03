@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Jasmeet Singh Malhotra </h1>
-
+ 
 <div align="center">
   <img src="https://github.com/jasmeetsm-04/jasmeetsm-04/blob/main/Banner- Linkedin Jasmeet.png" alt="Banner- Linkedin Jasmeet.png">
 </div>
