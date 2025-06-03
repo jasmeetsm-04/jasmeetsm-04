@@ -1,8 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Jasmeet Singh Malhotra </h1>
 
- ![Banner] (https://github.com/jasmeetsm-04/jasmeetsm-04/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true)
 <div align="center">
-  <img src="https://github.com/jasmeetsm-04/jasmeetsm-04/blob/main/Banner- Linkedin Jasmeet.png" alt="Banner- Linkedin Jasmeet.png">
+  <img src="https://github.com/jasmeetsm-04/jasmeetsm-04/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png">
 </div>
 
 <h3 align="center">An IT Operations professional, currently upskilling in DevOps, Cloud and Generative AI space. </h3>
